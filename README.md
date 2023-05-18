@@ -1,7 +1,7 @@
 # Overview
 
 In this software, I have built  a distance converter application that allows the user
-to input Kilometers and convert that in Miles.
+to input Kilometers and convert that in Miles vice versa according to the choice given by the user
 we’ll walk through the codes step by step and it will fulfill the requirements of this module.
 
 
